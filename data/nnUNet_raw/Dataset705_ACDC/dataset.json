@@ -1,0 +1,15 @@
+{ 
+"channel_names": {
+  "0": "MRI"
+},
+ "labels": { 
+    "background": 0,
+    "Right Ventricle (RV)": 1,
+    "Myocardium (MYO)": 2,
+    "Left Ventricle (LV)": 3
+}, 
+ "numTraining": 1912, 
+ "file_ending": ".h5",
+ "name": "Dataset705_ACDC",
+ "description": "This preprocessed dataset, derived from the Automated Cardiac Diagnosis Challenge (ACDC)"
+ }
